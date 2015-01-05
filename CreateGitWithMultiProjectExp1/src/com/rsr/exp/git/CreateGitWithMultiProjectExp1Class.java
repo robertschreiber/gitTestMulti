@@ -10,4 +10,7 @@ public class CreateGitWithMultiProjectExp1Class {
 	
 	public void doAnotherThing() {
 	}
+	
+	public void doYetAnotherThing() {
+	}
 }
